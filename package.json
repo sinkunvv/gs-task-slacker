@@ -1,8 +1,8 @@
 {
-  "name": "CCDタスク管理",
+  "name": "taslack",
   "version": "0.0.0",
   "private": true,
-  "author": "hiroki.nanzai",
+  "author": "sinkunvv",
   "description": "タスクマネージャー",
   "dependencies": {
     "hubot": "^2.19.0",
@@ -20,6 +20,6 @@
     "hubot-slack": "^4.4.0"
   },
   "engines": {
-    "node": "8.9.4"
+    "node": "5.5.0"
   }
 }
